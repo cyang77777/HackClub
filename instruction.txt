@@ -1,0 +1,5 @@
+run in cmd:
+pip install pyfiglet
+
+run in cmd:
+python fun.py
